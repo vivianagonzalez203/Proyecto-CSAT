@@ -1,6 +1,9 @@
 # app.py
 import streamlit as st
 import pandas as pd
+
+import sys
+!{sys.executable} -m pip install joblib
 import joblib
 
 # ===========================
