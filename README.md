@@ -106,4 +106,5 @@ streamlit run app.py
 ## 👩‍💻 Autor:
 
 Viviana Gonzalez
+
 Proyecto desarrollado como parte de mi portafolio en analítica de datos y machine learning.
